@@ -1,4 +1,4 @@
-Displays a random quote from Vice City Public Radio.
+Limnoria (Supybot) irc bot plugin that displays a random quote from Vice City Public Radio.
 
 Transcripts obtained from https://www.neoseeker.com/gta-vicecity/faqs/57746-grand-theft-auto-vice-city-vcpr.html and changed into vcpr.txt
 
