@@ -5,10 +5,6 @@ import supybot.log as log
 import supybot.utils as utils
 import supybot.plugins as plugins
 import supybot.callbacks as callbacks
-import re
-import json
-import requests
-import sys
 import random
 
 try:
